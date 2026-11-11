@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output.mp4
+output_inventory.txt
+output_events.log
+*.mp4
